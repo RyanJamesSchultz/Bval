@@ -19,7 +19,6 @@ function [b, b_err, a, R2, X2, Mbins, Ncum, Nbin ]=Bval(M_list, Mc, dM)
   % -a        -- GR-FMD a-value.
   % -R2       -- Goodness-of-fit statistic.
   % -X2       -- Chi-squared statistic.
-  % -L        -- Likelihood objective function.
   % -Mbins    -- Magnitude bins, for plotting.
   % -Ncum     -- Cumulative count in GR-FMD, for plotting.
   % -Nbin     -- Frequency count in GR-FMD, for plotting.
